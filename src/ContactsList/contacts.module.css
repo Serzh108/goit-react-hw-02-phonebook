@@ -1,0 +1,16 @@
+.list {
+display: flex;
+flex-direction: column;
+}
+
+.listItem {
+  margin-bottom: 12px;
+}
+
+.btnDelete {
+  display: inline-block;
+  margin-left: 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  cursor: pointer;
+}

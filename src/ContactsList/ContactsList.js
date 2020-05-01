@@ -1,14 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import styles from './contacts.module.css';
 
 function ContactsList({ filter, contacts, deleteContact }) {
   const filteredContacts = contacts.filter(contact => contact.name.toUpperCase().includes(filter.toUpperCase()));
   return (
-    <ul>
+    <ul className={styles.list}>
       {filteredContacts.map(contact => (
-        <li key={contact.id}>
+        <li className={styles.listItem} key={contact.id}>
           {contact.name}: {contact.number}
-          <button type='button' data-id={contact.id} onClick={deleteContact}>Delete</button>
+          <button className={styles.btnDelete} type='button' data-id={contact.id} onClick={deleteContact}>Delete</button>
         </li>
       ))}
     </ul>
