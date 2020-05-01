@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.b5318d23.chunk.css",
-    "main.js": "/goit-react-hw-02-phonebook/static/js/main.074e2a1f.chunk.js",
-    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.074e2a1f.chunk.js.map",
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.a0e95858.chunk.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.c72e6c1f.chunk.js",
+    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.c72e6c1f.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-02-phonebook/static/js/runtime-main.dca754b3.js",
     "runtime-main.js.map": "/goit-react-hw-02-phonebook/static/js/runtime-main.dca754b3.js.map",
-    "static/js/2.fccd0308.chunk.js": "/goit-react-hw-02-phonebook/static/js/2.fccd0308.chunk.js",
-    "static/js/2.fccd0308.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/2.fccd0308.chunk.js.map",
+    "static/js/2.74a5e806.chunk.js": "/goit-react-hw-02-phonebook/static/js/2.74a5e806.chunk.js",
+    "static/js/2.74a5e806.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/2.74a5e806.chunk.js.map",
     "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "precache-manifest.06971f7f1e1829d46ffd7c7daef9f7bc.js": "/goit-react-hw-02-phonebook/precache-manifest.06971f7f1e1829d46ffd7c7daef9f7bc.js",
+    "precache-manifest.a3eece909b560ec59e9b6e3a33b297cc.js": "/goit-react-hw-02-phonebook/precache-manifest.a3eece909b560ec59e9b6e3a33b297cc.js",
     "service-worker.js": "/goit-react-hw-02-phonebook/service-worker.js",
-    "static/css/main.b5318d23.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.b5318d23.chunk.css.map",
-    "static/js/2.fccd0308.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook/static/js/2.fccd0308.chunk.js.LICENSE.txt"
+    "static/css/main.a0e95858.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.a0e95858.chunk.css.map",
+    "static/js/2.74a5e806.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook/static/js/2.74a5e806.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/goit-react-hw-02-phonebook/static/media/roboto-v20-latin-regular.8681f434.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dca754b3.js",
-    "static/js/2.fccd0308.chunk.js",
-    "static/css/main.b5318d23.chunk.css",
-    "static/js/main.074e2a1f.chunk.js"
+    "static/js/2.74a5e806.chunk.js",
+    "static/css/main.a0e95858.chunk.css",
+    "static/js/main.c72e6c1f.chunk.js"
   ]
 }
